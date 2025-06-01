@@ -10,7 +10,7 @@ This project is a **safe-for-work edition** of *Friday Night Funkin’*, designe
 - **Inclusive Design** – Retains the game's signature style without the NSFW elements.
 
 ## 🔧 Setup & Installation
-The setup files are available in the **[Releases](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases)** section. Download the latest release and follow the instructions included.
+The setup files are available in the **[Releases](https://github.com/JimmyPla6z/Friday-Night-Funkin-SFW-Edition/releases)** section. Download the latest release and follow the instructions included.
 
 ## 🎤 Contributing
 Want to contribute to this project? Feel free to open issues, submit pull requests, or suggest features!
