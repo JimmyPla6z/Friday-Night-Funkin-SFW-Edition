@@ -16,7 +16,7 @@ The setup files are available in the **[Releases](https://github.com/JimmyPla6z/
 Want to contribute to this project? Feel free to open issues, submit pull requests, or suggest features!
 
 ## 📜 License
-This project is licensed under **All Rights Reserved**. See `LICENSE.md` for details.
+This project is licensed under **All Rights Reserved**. See *[LICENSE.md](https://github.com/JimmyPla6z/Friday-Night-Funkin-SFW-Edition/tree/main?tab=License-1-ov-file)* for details.
 
 ---
 
