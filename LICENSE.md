@@ -18,10 +18,10 @@ The owner is **not responsible** for any damages resulting from the use of this 
 Any contributions or modifications made to this project must be **explicitly approved** by the owner. Unapproved forks, derivatives, or adaptations are strictly **prohibited**.
 
 ### **5. Licensing Permissions**
-Requests for usage, modification, or redistribution **must be sent to jimmypla6z@mail.com**. Approved requests may receive limited, revocable permissions.
+Requests for usage, modification, or redistribution **must be sent to JimmyPla6z by submitting a contact form at [jimmypla6z.github.io/#contact](https://jimmypla6z.github.io/#contact)**. Approved requests may receive limited, revocable permissions.
 
 ### **6. Enforcement**
 Violations of this license may result in **legal action**, including takedowns, removal requests, or formal complaints.
 
 ---
-**For inquiries regarding this license, please contact jimmypla6z@mail.com.**
+**For inquiries regarding this license, please contact JimmyPla6z, by submitting a contact form at [jimmypla6z.github.io/#contact](https://jimmypla6z.github.io/#contact).**
