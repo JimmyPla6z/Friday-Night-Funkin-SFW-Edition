@@ -1,4 +1,4 @@
-# All Rights Reserved License
+# All Rights Reserved
 
 ## Copyright © 2025 JimmyPla6z. All Rights Reserved.
 
